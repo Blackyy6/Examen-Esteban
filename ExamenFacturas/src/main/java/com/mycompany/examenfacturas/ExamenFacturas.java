@@ -6,10 +6,7 @@ package com.mycompany.examenfacturas;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-/**
- *
- * @author Jeremy
- */
+
 public class ExamenFacturas {
 
     public static void main(String[] args) {
