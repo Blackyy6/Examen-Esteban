@@ -4,10 +4,6 @@
  */
 package com.mycompany.examenfacturas;
 
-/**
- *
- * @author Jeremy
- */
 public class DeudaCliente {
     private String nombreCliente;
     private String cedulaCliente;
